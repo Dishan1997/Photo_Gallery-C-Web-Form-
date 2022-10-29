@@ -1,0 +1,11 @@
+E:\.net Task\PhotoGallery2\PhotoGallery2\bin\Debug\PhotoGallery2.exe.config
+E:\.net Task\PhotoGallery2\PhotoGallery2\bin\Debug\PhotoGallery2.exe
+E:\.net Task\PhotoGallery2\PhotoGallery2\bin\Debug\PhotoGallery2.pdb
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.csprojAssemblyReference.cache
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.Form1.resources
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.Properties.Resources.resources
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.csproj.GenerateResource.cache
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.csproj.CoreCompileInputs.cache
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.exe
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.pdb
+E:\.net Task\PhotoGallery2\PhotoGallery2\obj\Debug\PhotoGallery2.Form2.resources
